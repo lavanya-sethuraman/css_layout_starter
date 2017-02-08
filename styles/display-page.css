@@ -1,0 +1,34 @@
+.c{
+  margin-top: 100px;
+  width:800px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px black;
+  font-size: 0;
+}
+.block1{
+  display: inline-block;
+  width: 50%;
+  height: 200px;
+}
+.block2{
+  display: inline-block;
+  width: 33.33%;
+  height: 300px;
+}
+.c1{
+  background-color: green;
+}
+.c2{
+  background-color: blue;
+}
+.c3{
+  background-color: gray;
+}
+.c4{
+  background-color: darkgray;
+}
+.c5{
+  background-color: orange;
+}
